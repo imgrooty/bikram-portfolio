@@ -44,7 +44,7 @@ export default function Hero() {
           <div className="relative w-64 h-64 md:w-80 md:h-80">
             <div className="absolute inset-0 rounded-full bg-cyan-500/20 animate-pulse"></div>
             <Image
-              src="/placeholder.svg?height=320&width=320"
+              src="/images/me.jpeg" // Corrected path
               alt="Profile"
               width={320}
               height={320}
@@ -57,4 +57,3 @@ export default function Hero() {
     </section>
   )
 }
-
