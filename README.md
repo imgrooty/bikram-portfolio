@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">Hi 👋, I'm imgrooty</h1>
+<h3 align="center">A curious and enthusiastic developer exploring the world of software development.</h3>
 
-## Getting Started
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-First, run the development server:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imgrooty&label=Profile%20views&color=0e75b6&style=flat" alt="imgrooty" /> </p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🔭 I’m currently working on **ENTERTAINMENT_APP**, built with Next.js and Tailwind CSS.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🌱 I’m learning **React.js, Python, and advanced Next.js concepts** to enhance my full-stack development skills.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- ⚡ Fun fact: I enjoy solving classic programming puzzles like **Tic-Tac-Toe** in Python!
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 💬 Ask me about **Next.js, Tailwind CSS, or Python projects**.
 
-## Learn More
+- 📫 How to reach me: **[Add your email/LinkedIn link here]**
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/[your-linkedin-profile]" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<h3 align="left">Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imgrooty&show_icons=true&locale=en&layout=compact" alt="imgrooty" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imgrooty&show_icons=true&locale=en" alt="imgrooty" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imgrooty&" alt="imgrooty" /></p>
+
+---
+
+<h3 align="left">Highlighted Projects:</h3>
+- **[ENTERTAINMENT_APP](https://github.com/imgrooty/ENTERTAINMENT_APP):** A Next.js-based entertainment app with Tailwind CSS for modern UI design.
+- **[Tic-Tac-Toe](https://github.com/imgrooty/Tic-Tac-Toe):** A Python implementation of the classic game.
+
+Explore more of my projects [here](https://github.com/imgrooty?tab=repositories).
