@@ -21,7 +21,7 @@ export default function Header() {
       <nav className="container mx-auto px-6 py-3 flex justify-between items-center">
         <Link href="/" className="flex items-center space-x-2">
           <Shield className="h-8 w-8 text-cyan-500 animate-pulse" />
-          <span className="text-xl font-bold">Your Name</span>
+          <span className="text-xl font-bold">BIKRAM SHARMA</span>
         </Link>
         <div className="md:hidden">
           <button onClick={() => setIsMenuOpen(!isMenuOpen)}>

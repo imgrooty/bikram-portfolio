@@ -48,7 +48,7 @@ export default function Hero() {
               alt="Profile"
               width={320}
               height={320}
-              className="rounded-full object-cover border-4 border-cyan-500"
+              className="rounded-full object-cover border-4 border-cyan-400"
               priority
             />
           </div>

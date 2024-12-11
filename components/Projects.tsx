@@ -2,7 +2,8 @@
 
 import { useInView } from 'react-intersection-observer'
 import Image from 'next/image'
-import { ExternalLink, Github } from 'lucide-react'
+import { ExternalLink, Github} from 'lucide-react'
+
 
 const projects = [
   {
